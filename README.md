@@ -1,0 +1,1 @@
+# diagnosticlogging_powermodule
